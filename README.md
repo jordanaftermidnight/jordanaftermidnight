@@ -1,7 +1,7 @@
 # jordanaftermidnight
 
-Hardware and AI, mostly at the intersection. Local-first by default,
-British spelling by accident.
+Open-hardware Eurorack, AI tooling for musicians, Elektron documentation. Local-first wherever possible. Some regtech on the side.
+
 
 ## Selected work
 
