@@ -1,16 +1,19 @@
-## Hi there 👋
+# jordanaftermidnight
 
-<!--
-**jordanaftermidnight/jordanaftermidnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hardware and AI, mostly at the intersection. Local-first by default,
+British spelling by accident.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI
+
+- **[ECHO](https://github.com/jordanaftermidnight/echo-research)** — Emergence-focused consciousness hosting and orchestration. Research code, not a product.
+- **[IRIS](https://github.com/jordanaftermidnight/IRIS_project)** — JS multi-provider AI router with MCP client integration. Phase A shipped May 2026.
+- **[conduit](https://github.com/jordanaftermidnight/conduit)** — AI MIDI generation for Ableton Live via local LLMs.
+- **[driftfield](https://github.com/jordanaftermidnight/driftfield)** — Cryptographic-entropy oracle with tarot, biorhythm, and synchronicity tracking. Live at [driftfield.vercel.app](https://driftfield.vercel.app/).
+
+### Hardware & music
+
+- **[macrobrute](https://github.com/jordanaftermidnight/macrobrute)** — Open-source Eurorack module with deep circuit-bending capabilities.
+- **[acidcode-bassline-ml303](https://github.com/jordanaftermidnight/acidcode-bassline-ml303)** — Complete TB-303 clone: analog circuitry, PIC firmware, Arduino interface.
+- **[octatrack-mk1-manual](https://github.com/jordanaftermidnight/octatrack-mk1-manual)** — Unofficial community rework of the Elektron Octatrack MK1 manual.
